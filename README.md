@@ -36,4 +36,4 @@
  - simulation video in video_simulation.webm file
  - saving map in map.pgm
  
- 7.Task is done.
+ 7. Task is done.
