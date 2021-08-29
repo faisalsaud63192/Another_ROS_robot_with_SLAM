@@ -33,7 +33,7 @@
  
  ![map-image](https://github.com/faisalsaud63192/Another_ROS_robot_with_SLAM/blob/main/map_image.png)
  
- simulation video in video_simulation.webm file
- saving map in map.pgm
+ - simulation video in video_simulation.webm file
+ - saving map in map.pgm
  
  7.Task is done.
